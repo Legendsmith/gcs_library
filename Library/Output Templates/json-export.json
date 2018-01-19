@@ -1,3 +1,6 @@
+//JSON export template by legendsmith
+//Legendsmith#1102 on discord
+//legendsmith.au@gmail.com
 {
 	"name":"@NAME",
 	"points":@TOTAL_POINTS,
