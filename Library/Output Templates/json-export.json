@@ -1,6 +1,7 @@
 //JSON export template by legendsmith
 //Legendsmith#1102 on discord
 //legendsmith.au@gmail.com
+//Anything that may output nothing is wrapped in a string to maintain valid data structure, this includes skill levels because skill containers in GCS output a skill with no skill level.
 {
 	"name":"@NAME",
 	"points":@TOTAL_POINTS,
