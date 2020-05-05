@@ -18222,7 +18222,7 @@
 			<levels>1</levels>
 			<affects>total</affects>
 			<reference>P75</reference>
-			<notes>@Level of Absorbptive Change. 1 None, 2, Light, 3, Medium, 4, Heavy, 5, Extra Heavy@</notes>
+			<notes>@Level of Absorptive Change. 1 None, 2, Light, 3, Medium, 4, Heavy, 5, Extra Heavy@</notes>
 		</modifier>
 		<modifier version="1" enabled="no">
 			<name>Active Change</name>
