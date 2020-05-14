@@ -87,7 +87,7 @@
 		<affects>total</affects>
 	</modifier>
 	<modifier version="1">
-		<name>Blockable Or Parryable</name>
+		<name>Blockable or Parryable</name>
 		<reference>PU8:12</reference>
 		<cost type="percentage">-10</cost>
 		<affects>total</affects>
@@ -406,7 +406,7 @@
 		<reference>PU8:15</reference>
 		<cost type="percentage">-5</cost>
 		<affects>total</affects>
-		<notes>Les than 1 hour</notes>
+		<notes>Lessthan 1 hour</notes>
 	</modifier>
 	<modifier version="1">
 		<name>Minimum Duration</name>
@@ -434,14 +434,14 @@
 		<reference>PU8:15</reference>
 		<cost type="percentage">-20</cost>
 		<affects>total</affects>
-		<notes>Les than 1 week</notes>
+		<notes>Lessthan 1 week</notes>
 	</modifier>
 	<modifier version="1">
 		<name>Minimum Duration</name>
 		<reference>PU8:15</reference>
 		<cost type="percentage">-25</cost>
 		<affects>total</affects>
-		<notes>Les than 1 month</notes>
+		<notes>Lessthan 1 month</notes>
 	</modifier>
 	<modifier version="1">
 		<name>Minimum Duration</name>
